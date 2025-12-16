@@ -44,6 +44,6 @@ This is the official space for the open-source Aerostack2 projects and maintaine
 
 | Repository | Description |  |
 | --- | --- | :---: |
-| [frontier-selection-rl](https://github.com/javilinos/frontier-selection-rl) | *Learning Efficient Frontier Selection with Cross-Attention Policy for Exploring Unstructured Environments [CORL 2025]* | **Under Peer Review** |
-| [flocking_behavior](https://github.com/carmendrpr/flocking_behavior) | *Flocking Behavior for Dynamic and Complex Swarm Structures [ICUAS 2025]* | **Accepted** |
+| [flocking_behavior](https://github.com/carmendrpr/flocking_behavior) | *Flocking Behavior for Dynamic and Complex Swarm Structures [ICUAS 2025]* | [10.1109/ICUAS65942.2025.11007905](https://doi.org/10.1109/ICUAS65942.2025.11007905) |
 | [minimal_sensing_exploration](https://github.com/pariaspe/minimal_sensing_exploration) | *Exploring Unstructured Environments using Minimal Sensing on Cooperative Nano-Drones [IEEE RA-L 2024]* | [10.1109/LRA.2024.3486212](https://doi.org/10.1109/LRA.2024.3486212) |
+<!-- | [frontier-selection-rl](https://github.com/javilinos/frontier-selection-rl) | *Learning Efficient Frontier Selection with Cross-Attention Policy for Exploring Unstructured Environments [CORL 2025]* | **Under Peer Review** | -->
