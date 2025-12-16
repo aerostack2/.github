@@ -1,5 +1,5 @@
 <!-- # Aerostack2 <br/> CVAR-UPM -->
-# Aerostack2 <img src="https://github.com/aerostack2/aerostack2.github.io/blob/3ca95cf5b888c19d6aa9b3e912063f9a4b30f48c/docs/_images/logo.png" align="right" height="90"> <br/> CVAR-UPM
+# Aerostack2 <img src="https://github.com/aerostack2/aerostack2.github.io/blob/3ca95cf5b888c19d6aa9b3e912063f9a4b30f48c/docs/_images/logo.png" align="right" height="90"> <img src="https://github.com/aerostack2/.github/blob/db8d9911ebd358bb8e019c7d3325f4c5fd365751/isotipo.svg" align="right" height="90"> <br/> CVAR-UPM
 
 <!-- <img src="https://github.com/ika-rwth-aachen/.github/assets/46258835/a6afc4f2-39f5-4455-aafd-1e6612963c23"> -->
 
