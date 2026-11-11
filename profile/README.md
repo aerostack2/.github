@@ -29,7 +29,7 @@ This is the official space for the open-source Aerostack2 projects and maintaine
 | [as2_platform_mavlink](https://github.com/aerostack2/as2_platform_mavlink) | *Interface with Mavlink protocol* | <img src="https://img.shields.io/github/stars/aerostack2/as2_platform_mavlink?style=social"/> <br/> |
 | [as2_platform_dji_osdk](https://github.com/aerostack2/as2_platform_dji_osdk) | *Interface with DJI Matrice Series OSDK* | <img src="https://img.shields.io/github/stars/aerostack2/as2_platform_dji_osdk?style=social"/> <br/> |
 | [as2_platform_dji_psdk](https://github.com/aerostack2/as2_platform_dji_psdk) | *Interface with DJI Matrice Series PSDK* | <img src="https://img.shields.io/github/stars/aerostack2/as2_platform_dji_psdk?style=social"/> <br/> |
-<!-- | [as2_platform_betaflight](https://github.com/aerostack2/as2_platform_betaflight) | *Interface with Betaflight autopilot* | <img src="https://img.shields.io/github/stars/aerostack2/as2_platform_betaflight?style=social"/> <br/> | -->
+| [as2_platform_betaflight](https://github.com/aerostack2/as2_platform_betaflight) | *Interface with Betaflight autopilot* | <img src="https://img.shields.io/github/stars/aerostack2/as2_platform_betaflight?style=social"/> <br/> |
 
 ## Project examples
 
