@@ -5,7 +5,7 @@
 
 <p align="center"> <br> <img src="https://img.shields.io/github/stars/aerostack2?style=social"/> &nbsp; <img src="https://img.shields.io/github/followers/aerostack2?style=social"/> </p>
 
-This is the official space for the open-source Aerostack2 projects and maintained mainly by [**CVAR-UPM**](https://vimeo.com/cvarupm). For information on how to use Aerostack2, please visit [aerostack2.github.io](https://github.com/aerostack2/aerostack2.github.io)
+This is the official space for the open-source Aerostack2 projects and maintained mainly by [**CVAR-UPM**](https://vimeo.com/cvarupm). For information on how to use Aerostack2, please visit [aerostack2.org](https://aerostack2.org/)
 
 > [!IMPORTANT]  
 > If you use Aerostack2 in the academic context, please cite:
